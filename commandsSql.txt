@@ -1,0 +1,1 @@
+create databasecreate tablescreate relationscreate quriescreate alter tables
